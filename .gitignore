@@ -1,0 +1,6 @@
+build/
+*.o
+*.dat
+.DS_Store
+/Exp[0-9][0-9]
+/Program_01
